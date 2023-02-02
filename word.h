@@ -9,8 +9,8 @@ public:
 	Word& operator=(const Word &w);
 	friend ostream& operator<<(ostream& out,const Word &word);
 private:
-	int id;    //µ¥´Ê±àºÅ
-	string name;	//µ¥´Ê
-	string content;	   //µ¥´Ê½âÊÍ
+	int id;    //åºå·
+	string name;	//å•è¯
+	string content;	   //ç¿»è¯‘
 };
 
