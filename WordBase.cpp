@@ -27,7 +27,7 @@ void WordBase::ImportWords(string base_name, int num) {
 		list[i] = w;
 	}
 	in.close();
-	cout << "µ¼Èë³É¹¦£¡"<<endl;
+	cout << "å¯¼å…¥æˆåŠŸï¼"<<endl;
 }
 
 void WordBase::DeleteWord(int index) {
